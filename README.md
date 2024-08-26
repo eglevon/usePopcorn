@@ -1,7 +1,7 @@
 # usePopcorn
 
 usePopcorn is a React application that allows users to search for movies, view detailed information, and manage a list of watched movies. The app leverages several custom hooks to handle API requests, state management, and keyboard interactions, offering a seamless and interactive user experience.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
 
